@@ -1,1 +1,23 @@
-este es el archivo css
+body {
+    margin: 0;
+    background-color: #383838;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+h1,p {
+    color: white;
+    background: red;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    border-radius: 150px;
+    transition: all 1s;
+}
+h1:hover,p:hover {
+    background: rgb(139, 0, 0);
+    
+}

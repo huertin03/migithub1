@@ -8,3 +8,5 @@ haya dicho ya, considero que para alguien que este empezando en esto le sería d
 
 Tengo que mencionar que el método que he usado yo para introducir el usuario en el terminal no es el más apropiado ya que deja tu contraseña expuesta
 en un archivo. (Lo mejor sería crear un token desde github, eso ya os lo dejo para que lo investiguéis vosotros).
+
+Añadida esta línea desde la terminal en un nuevo commit para hacer pruebas varias

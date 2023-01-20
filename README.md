@@ -12,3 +12,5 @@ en un archivo. (Lo mejor sería crear un token desde github, eso ya os lo dejo p
 Añadida esta línea desde la terminal en un nuevo commit para hacer pruebas varias
 
 Añadida otra línea desde otra máquina virtual
+
+Otra línea para hacer push sin la contraseña
